@@ -7,7 +7,8 @@
 <p align="center">
   <img src="https://a.imagem.app/oS4XpV.png" alt="project-screenshot" width="300" height="300" style="margin-right: 10px;"/>
   <img src="https://a.imagem.app/oS4TeJ.png" alt="project-screenshot" width="300" height="300" style="margin-left: 10px;"/>
-  <img src="https://a.imagem.app/oS4l2X.jpeg" width="300" height="300" style="margin-left: 10px;"/>
+  <img src="https://a.imagem.app/oS4l2X.jpeg" alt="project-screenshot" width="300" height="300" style="margin-right: 10px;"/>
+  <img src="https://a.imagem.app/oS4CRt.jpeg" alt="project-screenshot" width="300" height="300" style="margin-right: 10px;"/>
 </p>
   
   
